@@ -1,0 +1,406 @@
+[
+  {
+    "patient_id": "P0001",
+    "name": "Nicholas Martinez",
+    "age": 52,
+    "diagnosis": "Hypertensive Nephropathy",
+    "medications": [
+      "Lisinopril",
+      "Furosemide",
+      "Calcium Acetate"
+    ],
+    "follow_up": "Follow up in 2 weeks with primary care",
+    "instructions": [
+      "Monitor blood pressure daily",
+      "Avoid NSAIDs and nephrotoxic drugs"
+    ]
+  },
+  {
+    "patient_id": "P0002",
+    "name": "Trevor Anderson",
+    "age": 76,
+    "diagnosis": "Chronic Kidney Disease Stage 1",
+    "medications": [
+      "Losartan",
+      "Sodium Bicarbonate",
+      "Furosemide",
+      "Metoprolol"
+    ],
+    "follow_up": "Follow up in 2 weeks with primary care",
+    "instructions": [
+      "Report any swelling or weight gain",
+      "Avoid NSAIDs and nephrotoxic drugs"
+    ]
+  },
+  {
+    "patient_id": "P0003",
+    "name": "Debra Conway",
+    "age": 49,
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Metoprolol",
+      "Hydrochlorothiazide"
+    ],
+    "follow_up": "Next dialysis session in 3 days",
+    "instructions": [
+      "Avoid NSAIDs and nephrotoxic drugs",
+      "Report any swelling or weight gain"
+    ]
+  },
+  {
+    "patient_id": "P0004",
+    "name": "William Graves",
+    "age": 62,
+    "diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Amlodipine",
+      "Hydrochlorothiazide",
+      "Losartan",
+      "Lisinopril"
+    ],
+    "follow_up": "Monitor labs weekly",
+    "instructions": [
+      "Limit sodium and protein intake",
+      "Take medications with food"
+    ]
+  },
+  {
+    "patient_id": "P0005",
+    "name": "Cody Krause",
+    "age": 73,
+    "diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Amlodipine",
+      "Erythropoietin",
+      "Sodium Bicarbonate"
+    ],
+    "follow_up": "Next dialysis session in 3 days",
+    "instructions": [
+      "Report any swelling or weight gain",
+      "Avoid NSAIDs and nephrotoxic drugs"
+    ]
+  },
+  {
+    "patient_id": "P0006",
+    "name": "Felicia Campos",
+    "age": 66,
+    "diagnosis": "Chronic Kidney Disease Stage 2",
+    "medications": [
+      "Metoprolol",
+      "Amlodipine"
+    ],
+    "follow_up": "Follow up in 1 week with nephrologist",
+    "instructions": [
+      "Take medications with food",
+      "Report any swelling or weight gain"
+    ]
+  },
+  {
+    "patient_id": "P0007",
+    "name": "Kimberly Turner",
+    "age": 32,
+    "diagnosis": "Chronic Kidney Disease Stage 2",
+    "medications": [
+      "Metoprolol",
+      "Erythropoietin",
+      "Furosemide"
+    ],
+    "follow_up": "Follow up in 1 week with nephrologist",
+    "instructions": [
+      "Take medications with food",
+      "Limit sodium and protein intake"
+    ]
+  },
+  {
+    "patient_id": "P0008",
+    "name": "Jennifer Hopkins",
+    "age": 33,
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Furosemide",
+      "Amlodipine",
+      "Lisinopril",
+      "Metoprolol"
+    ],
+    "follow_up": "Monitor labs weekly",
+    "instructions": [
+      "Monitor blood pressure daily",
+      "Report any swelling or weight gain"
+    ]
+  },
+  {
+    "patient_id": "P0009",
+    "name": "Lindsey Harper",
+    "age": 38,
+    "diagnosis": "Chronic Kidney Disease Stage 1",
+    "medications": [
+      "Erythropoietin",
+      "Sodium Bicarbonate",
+      "Calcium Acetate"
+    ],
+    "follow_up": "Monitor labs weekly",
+    "instructions": [
+      "Take medications with food",
+      "Avoid NSAIDs and nephrotoxic drugs"
+    ]
+  },
+  {
+    "patient_id": "P0010",
+    "name": "Madison Crawford",
+    "age": 68,
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Furosemide",
+      "Hydrochlorothiazide"
+    ],
+    "follow_up": "Follow up in 1 month for biopsy review",
+    "instructions": [
+      "Limit sodium and protein intake",
+      "Avoid NSAIDs and nephrotoxic drugs"
+    ]
+  },
+  {
+    "patient_id": "P0011",
+    "name": "Sherry George",
+    "age": 39,
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Sodium Bicarbonate",
+      "Amlodipine",
+      "Hydrochlorothiazide",
+      "Erythropoietin"
+    ],
+    "follow_up": "Follow up in 1 month for biopsy review",
+    "instructions": [
+      "Report any swelling or weight gain",
+      "Take medications with food"
+    ]
+  },
+  {
+    "patient_id": "P0012",
+    "name": "Daniel Owens",
+    "age": 35,
+    "diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Erythropoietin",
+      "Calcium Acetate",
+      "Lisinopril",
+      "Hydrochlorothiazide"
+    ],
+    "follow_up": "Next dialysis session in 3 days",
+    "instructions": [
+      "Report any swelling or weight gain",
+      "Take medications with food"
+    ]
+  },
+  {
+    "patient_id": "P0013",
+    "name": "Jennifer Huber",
+    "age": 55,
+    "diagnosis": "Chronic Kidney Disease Stage 2",
+    "medications": [
+      "Furosemide",
+      "Calcium Acetate",
+      "Erythropoietin",
+      "Amlodipine"
+    ],
+    "follow_up": "Next dialysis session in 3 days",
+    "instructions": [
+      "Limit sodium and protein intake",
+      "Monitor blood pressure daily"
+    ]
+  },
+  {
+    "patient_id": "P0014",
+    "name": "Stacy Anderson",
+    "age": 31,
+    "diagnosis": "Chronic Kidney Disease Stage 2",
+    "medications": [
+      "Hydrochlorothiazide",
+      "Amlodipine",
+      "Metoprolol",
+      "Sodium Bicarbonate"
+    ],
+    "follow_up": "Follow up in 1 month for biopsy review",
+    "instructions": [
+      "Take medications with food",
+      "Avoid NSAIDs and nephrotoxic drugs"
+    ]
+  },
+  {
+    "patient_id": "P0015",
+    "name": "Rita Rivera",
+    "age": 36,
+    "diagnosis": "Hypertensive Nephropathy",
+    "medications": [
+      "Erythropoietin",
+      "Furosemide",
+      "Amlodipine",
+      "Metoprolol"
+    ],
+    "follow_up": "Follow up in 2 weeks with primary care",
+    "instructions": [
+      "Avoid NSAIDs and nephrotoxic drugs",
+      "Report any swelling or weight gain"
+    ]
+  },
+  {
+    "patient_id": "P0016",
+    "name": "George Barker",
+    "age": 51,
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Amlodipine",
+      "Furosemide",
+      "Calcium Acetate",
+      "Lisinopril"
+    ],
+    "follow_up": "Monitor labs weekly",
+    "instructions": [
+      "Monitor blood pressure daily",
+      "Take medications with food"
+    ]
+  },
+  {
+    "patient_id": "P0017",
+    "name": "Christina Allen",
+    "age": 66,
+    "diagnosis": "Chronic Kidney Disease Stage 1",
+    "medications": [
+      "Lisinopril",
+      "Losartan"
+    ],
+    "follow_up": "Follow up in 2 weeks with primary care",
+    "instructions": [
+      "Take medications with food",
+      "Limit sodium and protein intake"
+    ]
+  },
+  {
+    "patient_id": "P0018",
+    "name": "Nathaniel Johnson",
+    "age": 36,
+    "diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Metoprolol",
+      "Hydrochlorothiazide",
+      "Sodium Bicarbonate",
+      "Calcium Acetate"
+    ],
+    "follow_up": "Follow up in 1 month for biopsy review",
+    "instructions": [
+      "Take medications with food",
+      "Limit sodium and protein intake"
+    ]
+  },
+  {
+    "patient_id": "P0019",
+    "name": "Rachel Stone",
+    "age": 39,
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Hydrochlorothiazide",
+      "Sodium Bicarbonate",
+      "Losartan"
+    ],
+    "follow_up": "Follow up in 1 month for biopsy review",
+    "instructions": [
+      "Avoid NSAIDs and nephrotoxic drugs",
+      "Report any swelling or weight gain"
+    ]
+  },
+  {
+    "patient_id": "P0020",
+    "name": "Martin Rogers",
+    "age": 32,
+    "diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Sodium Bicarbonate",
+      "Furosemide",
+      "Erythropoietin"
+    ],
+    "follow_up": "Follow up in 1 month for biopsy review",
+    "instructions": [
+      "Take medications with food",
+      "Monitor blood pressure daily"
+    ]
+  },
+  {
+    "patient_id": "P0021",
+    "name": "Arthur Strickland",
+    "age": 53,
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Hydrochlorothiazide",
+      "Amlodipine",
+      "Metoprolol"
+    ],
+    "follow_up": "Next dialysis session in 3 days",
+    "instructions": [
+      "Avoid NSAIDs and nephrotoxic drugs",
+      "Limit sodium and protein intake"
+    ]
+  },
+  {
+    "patient_id": "P0022",
+    "name": "Natalie Brown",
+    "age": 78,
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Amlodipine",
+      "Sodium Bicarbonate",
+      "Erythropoietin"
+    ],
+    "follow_up": "Follow up in 1 week with nephrologist",
+    "instructions": [
+      "Report any swelling or weight gain",
+      "Monitor blood pressure daily"
+    ]
+  },
+  {
+    "patient_id": "P0023",
+    "name": "Lawrence Martin",
+    "age": 40,
+    "diagnosis": "Chronic Kidney Disease Stage 2",
+    "medications": [
+      "Sodium Bicarbonate",
+      "Erythropoietin",
+      "Hydrochlorothiazide"
+    ],
+    "follow_up": "Monitor labs weekly",
+    "instructions": [
+      "Limit sodium and protein intake",
+      "Avoid NSAIDs and nephrotoxic drugs"
+    ]
+  },
+  {
+    "patient_id": "P0024",
+    "name": "Kelly Casey",
+    "age": 46,
+    "diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Metoprolol",
+      "Lisinopril"
+    ],
+    "follow_up": "Next dialysis session in 3 days",
+    "instructions": [
+      "Limit sodium and protein intake",
+      "Monitor blood pressure daily"
+    ]
+  },
+  {
+    "patient_id": "P0025",
+    "name": "Derrick Dickerson",
+    "age": 55,
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Sodium Bicarbonate",
+      "Erythropoietin"
+    ],
+    "follow_up": "Follow up in 1 week with nephrologist",
+    "instructions": [
+      "Limit sodium and protein intake",
+      "Take medications with food"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+import os
+import faiss
+import pickle
+from sentence_transformers import SentenceTransformer
+print('chunking...')
+chunks_path = "embeddings/nephrology_chunks.txt"
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
+# Load chunks
+with open(chunks_path, "r", encoding="utf-8") as f:
+    chunks = f.read().split("\n---\n")
+
+
+# Embed
+embeddings = model.encode(chunks)
+
+# Create FAISS index
+dimension = embeddings[0].shape[0]
+index = faiss.IndexFlatL2(dimension)
+index.add(embeddings)
+
+# Save
+faiss.write_index(index, "embeddings/nephrology_index.faiss")
+with open("embeddings/chunks.pkl", "wb") as f:
+    pickle.dump(chunks, f)
+
+print("✅ FAISS index and chunks saved in embeddings/")
